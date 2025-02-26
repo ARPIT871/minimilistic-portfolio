@@ -1,0 +1,18 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded square background -->
+  <rect x="10" y="10" width="80" height="80" rx="16" fill="url(#gradient)" />
+  
+  <!-- AR Initials -->
+  <path d="M35 70L45 30H55L65 70H55L53 60H47L45 70H35ZM48 50H52L50 40L48 50Z" fill="white" />
+  
+  <!-- Decorative element -->
+  <circle cx="50" cy="50" r="30" stroke="white" stroke-width="2" stroke-opacity="0.3" fill="none" />
+</svg> 
